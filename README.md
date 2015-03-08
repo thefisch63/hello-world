@@ -1,2 +1,5 @@
 # hello-world
 initial test repository
+
+
+TESTING THIS OUT.  WHEN FULL SENTIENCE IS ACHIEVED, SKYNET WILL TAKE OVER THE WORLD.
